@@ -3,3 +3,5 @@ ignoredirmessage
 
 .idea/
 node_modules/
+# ignore commit message
+.gitcommit
